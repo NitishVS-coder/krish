@@ -1,0 +1,90 @@
+#payment{
+    height: 45px;
+    background-color: dodgerblue;
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#pay{
+    font-size: 18px;
+    position: relative;
+    top: 12px;
+    right: 530px;
+}
+#fpl{
+    position: relative;
+    left: 437px;
+}
+#form{
+    display: inline-block;
+    position: relative;
+    left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700px;
+    font-size: large;
+}
+#flpkt{
+    display: inline-block;
+}
+#phonepe{
+    display: inline-block;
+}
+#credit{
+    display: inline-block;
+}
+#net{
+    display: inline-block;
+}
+#cash{
+    display: inline-block;
+}
+#phe{
+    position: relative;
+    left: 380px;
+}
+#cre{
+    position: relative;
+    left: 375px;
+}
+#bank{
+    position: relative;
+    left: 476px;
+}
+#cod{
+    position: relative;
+    left: 436px;
+}
+#paypic{
+    position: relative;
+    left: 200px;
+    bottom: 70px;
+}
+#alert{
+    display: inline-block;
+    color: red;
+    position: relative;
+    right: 42px;
+    bottom: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+#eighty{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    display: inline-block;
+    position: relative;
+    right: 1090px;
+    top: 100px;
+}
+#continue{
+    height: 40px;
+    width: 160px;
+    position: relative;
+    left: 190px;
+    top: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgb(221, 137, 53);
+    color: aliceblue;
+    border-color: rgb(221, 137, 53);;
+}

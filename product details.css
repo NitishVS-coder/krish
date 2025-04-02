@@ -1,0 +1,151 @@
+#timex{
+   position: relative;
+   top: 130px;
+   left: 150px;
+}
+#divv{
+    width: 400px;
+    height: 60px;
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    bottom: 230px;
+    border-bottom: solid;
+    border-width: 1px;
+}
+#divv2{
+    width: 399px;
+    height: 500px;
+    position: relative;
+    left: 674px;
+    bottom: 200px;
+    border-width: 1px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+#watch{
+    margin: 0px;
+    display: inline-block;
+}
+#dial{
+    margin: 0px;
+    font-size: large;
+    position: relative;
+    right: 5px;
+    top: 9px;
+}
+#tone{
+    margin: 0px;
+    display: inline-block;
+    color: darkgray;
+}
+#colors{
+    margin: 0px;
+    display: inline-block;
+    font-weight: bold;
+}
+#divv3{
+    display: inline-block;
+    font-size: small;
+    position: relative;
+    top: 19px;
+    right: 89px;
+}
+#price{
+    /* display: inline-block; */
+    margin: 0px;
+    position: relative;
+    right: 18px;
+    font-size: xx-large;
+}
+#ten{
+    /* display: inline-block; */
+    margin: 0px;
+    position: relative;
+    right: 67px;
+    font-size: small;
+    color: green;
+}
+#tax{
+    /* display:inline-block; */
+    margin: 0px;
+    position: relative;
+    right: 29px;
+    top: 3px;
+    font-size: small;
+}
+#divv4{
+    position: relative;
+    top: 50px;
+    right: 67px;
+}
+#divv5{
+    font-size: 11px;
+    position: relative;
+    top: 80px;
+    right: 7px;
+}
+#code{
+    display: inline-block;
+    margin: 0px;
+    position: relative;
+    right: 29px;
+}
+#code1{
+    display: inline-block;
+    margin: 0px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    right: 28px;
+}
+#code2{
+    display: inline-block;
+    margin: 0px;
+    position: relative;
+    right: 111px;
+}
+#code3{
+    display: inline-block;
+    margin: 0px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    right: 110px;
+}
+#wishlist{
+    display: inline-block;
+    position: relative;
+    top: 85px;
+    right: 430px;
+    width: 20px;
+}
+#cart{
+    width: 270px;
+    height: 35px;
+    background-color: rgb(250, 164, 6);
+    border-color: rgb(250, 164, 6);
+    color: aliceblue;
+    font-weight: bolder;
+    display: inline-block;
+    border-radius: 20px;
+    position: relative;
+    top: 130px;
+    right: 13px;
+}
+#buy{
+    border-color:rgb(223, 80, 28);
+    width: 270px;
+    height: 35px;
+    background-color: rgb(223, 80, 28);
+    color: aliceblue;
+    font-weight: bolder;
+    display: inline-block;
+    border-radius: 20px;
+    position: relative;
+    top: 150px;
+    right: 2px;
+}

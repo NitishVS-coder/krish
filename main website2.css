@@ -1,0 +1,342 @@
+#div1{
+    background-color: dodgerblue;
+    height: 40px;
+} 
+#inp1{
+    height: 27px;
+    position: relative;
+    bottom: 35px;
+    left: 180px;
+}
+#img1{
+    position: relative;
+    left: 170px;
+    bottom: 8px;
+}
+#login{
+    position: relative;
+    left: 220px;
+    bottom: 35px;
+    width: 70px;
+    height: 27px;
+    color: dodgerblue;
+}
+#an1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+    position: relative;
+    left: 250px;
+    bottom: 34px;
+    text-decoration: none; 
+    color: aliceblue; 
+}
+
+#an2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+    position: relative;
+    left: 275px;
+    bottom: 34px;
+    text-decoration: none; 
+    color: aliceblue; 
+}
+#an3{
+    position: relative;
+    bottom: 8px;
+    left: 83px;
+}
+#an4{
+    position: relative;
+    bottom: 6px;
+    left: 132px;
+}
+#an5{
+    position: relative;
+    top: 4px;
+    left: 170px;
+}
+#an6{
+    position: relative;
+    bottom: 8px;
+    left: 195px;
+}
+#an7{
+    position: relative;
+    left: 223px;
+    top: 2px;
+}
+#an8{
+    position: relative;
+    left: 260px;
+    top: 13px;
+}
+#an9{
+    position: relative;
+    left: 309px;
+    bottom: 4px;
+}
+#an10{
+    position: relative;
+    left: 340px;
+    bottom: 5px;
+}
+#to{
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    bottom: 22px;
+    font-weight: bold;
+}
+#gr{
+    display: inline-block;
+    position: relative;
+    left: 176px;
+    bottom: 23px;
+    font-weight: bold;
+}
+#mo{
+    display: inline-block;
+    position: relative;
+    left: 232px;
+    bottom: 21px;
+    font-weight: bold;
+}
+#fa{
+    display: inline-block;
+    position: relative;
+    left: 296px;
+    bottom: 21px;
+    font-weight: bold;
+}
+#elc{
+    display: inline-block;
+    position: relative;
+    left: 351px;
+    bottom: 21px;
+    font-weight: bold;
+}
+#ho{
+    display: inline-block;
+    position: relative;
+    left: 412px;
+    bottom: 21px;
+    font-weight: bold;
+}
+#apll{
+    display: inline-block;
+    position: relative;
+    left: 510px;
+    bottom: 23px;
+    font-weight: bold;
+}
+#bk{
+    font-weight: bold;  
+    display: inline-block;
+    position: relative;
+    left: 580px;
+    bottom: 21px;
+}
+#realme{
+    display: inline-block;
+    width: 1255px;
+    height: 200px;
+    bottom: 60px;
+}
+#viewall{
+    background-color: dodgerblue;
+    color: aliceblue;
+    position: relative;
+    left: 880px;
+}
+#div5{
+    position: relative;
+    bottom: 30px;
+    left: 10px;
+    display: inline-block;
+}
+#d{
+    font-weight: bold;
+    display: inline-block;
+}
+#an11{
+    position: relative;
+    bottom: 30px;
+}
+#p{
+    display:inline-block;
+    position: relative;
+    bottom: 15px;
+    font-size: smaller;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#an12{
+    position: relative;
+    left: 10px;
+}
+#an13{
+    position: relative;
+    left: 75px;
+}
+#an14{
+    position: relative;
+    left: 140px;
+}
+#an15{
+    position: relative;
+    left: 200px;
+}
+#an16{
+    position: relative;
+    left: 260px;
+}
+#an17{
+    position: relative;
+    left: 300px;
+}
+#div6{
+    position: relative;
+    bottom: 35px;
+    left: 20px;
+    /* display: inline-block; */
+}
+#div7{
+    background-color: rgb(116, 116, 190);
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 45px;
+}
+#an18{
+    position: relative;
+    top: 14px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#div8{
+    background-color: rgb(34, 34, 80);
+    height: 270px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#f1{
+    display: inline-block;
+    margin: 0px;
+    position: relative;
+    left: 120px;
+    top: 50px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#f2{
+    margin: 0px;
+    display: inline-block;
+    font-weight: normal;
+    position: relative;
+    left: 120px;
+    top: 65px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#f3{
+    margin: 0px;
+    display: inline-block;
+    font-weight: normal;
+    position: relative;
+    left: 15px;
+    top: 86px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#f4{
+    margin: 0px;
+    display: inline-block;
+    font-weight: normal;
+    position: relative;
+    right: 45px;
+    top: 107px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#f5{
+    margin: 0px;
+    display: inline-block;
+    position: relative;
+    font-weight: normal;
+    top: 130px;
+    right: 154px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#f6{
+    margin: 0px;
+    display: inline-block;
+    position: relative;
+    top: 29px;
+    left: 30px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#f7{
+    
+    font-weight: normal;
+    text-decoration: none;
+    position: relative;
+    top: 57px;
+    right: 98px;
+    color: aliceblue;
+}
+#f8{
+    font-weight: normal;
+    text-decoration: none;
+    position: relative;
+    top: 79px;
+    right: 280px;
+    color: aliceblue;
+}
+#f9{
+    font-weight: normal;
+    text-decoration: none;
+    position: relative;
+    top: 102px;
+    right: 355px;
+    color: aliceblue;
+}
+#f10{
+    font-weight: normal;
+    text-decoration: none;
+    position: relative;
+    top: 123px;
+    right: 404px;
+    color: aliceblue;
+}
+#f11{
+    text-decoration: none;
+    position: relative;
+    top: 180px;
+    right: 630px;
+    color: aliceblue;
+}
+#f12{
+    text-decoration: none;
+    position: relative;
+    top: 180px;
+    right: 580px;
+    color: aliceblue;
+}
+#f13{
+    text-decoration: none;
+    position: relative;
+    top: 162px;
+    left: 680px;
+    color: aliceblue;
+}
+#f14{
+    text-decoration: none;
+    position: relative;
+    top: 190px;
+    left: 210px;
+    color: aliceblue;
+}

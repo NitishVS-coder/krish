@@ -1,0 +1,186 @@
+#div1{
+    display: inline-block;
+}
+    #a1{
+    text-decoration:none;
+    position: relative;
+    left: 250px;
+    bottom: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#a2{
+    text-decoration:none;
+    position: relative;
+    left: 300px;
+    bottom: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#a3{
+    text-decoration:none;
+    position: relative;
+    left: 350px;
+    bottom: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#a4{
+    text-decoration:none;
+    position: relative;
+    left: 400px;
+    bottom: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#a5{
+    text-decoration:none;
+    position: relative;
+    left: 450px;
+    bottom: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#inp1{
+    position: relative;
+    left: 550px;
+    bottom: 33px;
+}
+#button1{
+    position: relative;
+    left: 546px;
+    bottom: 33px;
+    border-radius: 0px;
+    background-color: orangered;
+    color: aliceblue;
+    size:25px;
+    text-align: center;
+}
+#p1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 78px;
+    font-weight: bolder;
+    display: inline-block;
+}
+/* #p2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    font-weight: bolder;
+    display: inline-block;
+
+} */
+ #p2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    position: relative;
+    left: 10px;
+ }
+ #p3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    position: relative;
+    bottom: 50px;   
+ }
+ #p4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    position: relative;
+    bottom: 100px;
+    left: 15px;
+ }
+#div2{
+   height: 275px;
+   width: 220px;
+   border: solid;
+   border-radius: 5px;
+   display: inline-block;
+   position: relative;
+   left: 960px;
+   bottom: 350px;
+   /* background-color: rgb(31, 31, 70) */
+}
+#div3{
+    width: 175px;
+    border: solid;
+    /* border-color: aliceblue; */
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+    left: 18px;
+    top: 13px;
+    /* background-color:aliceblue;
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold; */
+}
+#inp3{
+    position: relative;
+    left: 19px;
+    top: 50px;
+}
+#inp2{
+    position: relative;
+    left: 19px;
+    top: 35px;
+}
+#button2{
+    width: 177px;
+    position: relative;
+    top: 70px;
+    left: 19px;
+}
+#a6{
+    text-decoration: none;
+    color: rgb(192, 114, 86);
+    position: relative;
+    top: 56px;
+    left: 68px;
+}
+#p5{
+    position: relative;
+    top: 75px;
+    left: 33px;
+}
+#p6{
+    position: relative;
+    top: 22px;
+    left: 122px;
+}
+#p7{
+    font-size: small;
+    position: relative;
+    left: 78px;
+    top: 13px;
+}
+#a7{
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 3px;
+}
+#a8{
+    display: inline-block;
+    position: relative;
+    top: 5px;
+}
+#a9{
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 9px;
+}
+#a10{
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 21px;
+}
+#a11{
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 31px;
+}

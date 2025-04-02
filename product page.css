@@ -1,0 +1,232 @@
+#div1{
+    background-color: dodgerblue;
+    height: 40px;
+} 
+#img1{
+    position: relative;
+    left: 170px;
+    bottom: 8px;
+}
+#inp1{
+    height: 27px;
+    position: relative;
+    bottom: 35px;
+    left: 180px;
+}
+#login{
+    position: relative;
+    left: 220px;
+    bottom: 35px;
+    width: 70px;
+    height: 27px;
+    color: dodgerblue;
+}
+#an1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+    position: relative;
+    left: 250px;
+    bottom: 34px;
+    text-decoration: none; 
+    color: aliceblue; 
+}
+#an2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+    position: relative;
+    left: 275px;
+    bottom: 34px;
+    text-decoration: none; 
+    color: aliceblue; 
+}
+#div2{
+    display: inline-block;
+    position: relative;
+    left: 240px;
+    top: 70px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+#an4{
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+    right: 179px;
+    color: black;
+}
+#p1{
+    display: inline-block;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: x-large;
+    position: relative;
+    top: 40px;
+    right: 234px;
+}
+#p2{
+    color: green;
+    display: inline-block;
+    position: relative;
+    top: 55px;
+    right: 354px;
+}
+#an6{
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+    right: 315px;
+    color: black; 
+}
+#an5{
+    display: inline-block;
+    position: relative;
+    right: 130px;
+}
+#p3{
+    display: inline-block;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: x-large;
+    position: relative;
+    top: 40px;
+    right: 371px;
+}
+#p4{
+    color: green;
+    display: inline-block;
+    position: relative;
+    top: 55px;
+    right: 479px;
+}
+#an7{
+    display: inline-block;
+    position: relative;
+    right: 230px;
+}
+#an8{
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    bottom: 32px;
+    left: 800px;
+    color: black;
+}
+#p5{
+    display: inline-block;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: x-large;
+    position: relative;
+    bottom: 12px;
+    left: 742px;
+}
+#p6{
+    color: green;
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    left: 589px;
+}
+#div3{
+    display: inline-block;
+    position: relative;
+    left: 240px;
+    top: 70px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+#an9{
+    display: inline-block;
+    position: relative;
+    left: 0px;
+}
+#an10{
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+    right: 179px;
+    color: black;
+}
+#p7{
+    display: inline-block;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: x-large;
+    position: relative;
+    top: 40px;
+    right: 273px;
+}
+#p8{
+    color: green;
+    display: inline-block;
+    position: relative;
+    top: 56px;
+    right: 380px;
+}
+#an11{
+    display: inline-block;
+    position: relative;
+    right: 154px;
+}
+#an12{
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+    right: 333px;
+    color: black;
+}
+#p9{
+    display: inline-block;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: x-large;
+    position: relative;
+    top: 40px;
+    right: 389px;
+}
+#p10{
+    color: green;
+    display: inline-block;
+    position: relative;
+    top: 56px;
+    right: 495px;
+}
+#an13{
+    display: inline-block;
+    position: relative;
+    right: 260px;
+}
+#an14{
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    bottom: 37px;
+    left: 799px;
+    color: black;
+}
+#p11{
+    display: inline-block;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: x-large;
+    position: relative;
+    bottom: 17px;
+    left: 741px;
+}
+#p12{
+    color: green;
+    display: inline-block;
+    position: relative;
+    bottom: 1px;
+    left: 635px;
+}

@@ -1,0 +1,15 @@
+#orderconfirmed{
+    display: inline-block;
+    position: relative;
+    left: 445px;
+    top: 70px;
+}
+#od{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    font-weight: bolder;
+    display: inline-block;
+    position: relative;
+    right: 55px;
+    top: 120px;
+}
