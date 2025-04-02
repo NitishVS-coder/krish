@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <script>
+            function validate()
+{
+
+var inp2=document.getElementById("inp2").value;
+var inp3=document.getElementById("inp3").value;
+submitOK="true";
+
+if(inp2.length=="")
+{
+alert("Please enter a valid e-mail");
+submitOK="false";
+}
+
+if(inp3.length=="")
+{
+alert("Incorrect Password");
+submitOK="false";
+}
+
+if(submitOK=="false")
+{
+return false;
+}
+}
+
+        </script>
+        <link rel="stylesheet" href="website.css">
+    </head>
+    <header>
+        <div id="div1">
+            <p><img src="flipkart logo.jfif" height="40"></p>
+            <a id="a1" href="">Home</a>
+            <a id="a2" href="">About</a>
+            <a id="a3" href="">Service</a>
+            <a id="a4" href="">Help</a>
+            <a id="a5" href="">Contact</a>
+            <input type="text" name="type to search" id="inp1" placeholder="Type to Search">
+            <input type="submit" value="search" id="button1">
+        </div>
+    </header>
+    <body>
+        <p id="p1">Welcome to Flipkart!!</p>
+        <!-- <p id="p2">Flipkart!!</p><br> -->
+         <p id="p2">In our opinion, a product description that sparks the</p><br>
+         <p id="p3">imagination can raise any product, no matter how plain</p><br>
+         <p id="p4">and possibly even basic, into a best-selling star. </p>
+         <div id="div2">
+            <div id="div3">
+                Login Here
+            </div>
+            <form action="main website2.html" onsubmit="return validate()">
+            <input type="email" name="Email" id="inp2" placeholder="Enter Email Here">
+            <input type="password" name="Password" id="inp3" placeholder="Enter Password Here">
+           
+            <input type="submit" value="Login" id="button2">
+            </form>
+            <p id="p5">Don't have an account?</p>
+            <a id="a6" href="">Sign up </a>
+            <p id="p6">here</p>
+            <p id="p7">Log in with</p>
+            <a id="a7" href=""><img src="FACEBOOK.png" height="26"></a>
+            <a id="a8" href=""><img src="INSTAGRAM.jfif" height="26"></a>
+            <a id="a9" href=""><img src="twitter.png" height="26"></a>
+            <a id="a10" href=""><img src="google3.jfif" height="26"></a>
+            <a id="a11" href=""><img src="skype1.jfif" height="26"></a>
+         </div>
+    </body>
+</html>
